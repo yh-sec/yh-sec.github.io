@@ -1517,7 +1517,7 @@ a:focus {
 }
 
 header {
-    background: url(../images/header.png) no-repeat center/cover fixed;
+    background: url(https://img.5am3.com/20190626156152434819833.png) no-repeat center/cover fixed;
     color: #fff;
     min-height: 750px;
     width: 100%;
@@ -1646,7 +1646,7 @@ ul.pro-list, ul.case-list, ul.contact {
 }
 ul.pro-list li{
     background: #ffff;
-    padding: 50px;
+    padding: 30px;
     min-height: 225px;
     margin-bottom: 4%;
 }
