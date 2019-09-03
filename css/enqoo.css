@@ -1692,6 +1692,10 @@ footer p {
 .copyright {
     font-size: 14px;
 }
+.beian {
+    font-size: 14px;
+    text-align:center;
+}
 .bg-left {
     background: url(../images/f-bg-l.png) no-repeat;
     position: absolute;
